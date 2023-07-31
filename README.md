@@ -1,4 +1,4 @@
-## Amoozal Client
+## client && admin panel learning web application
 
 for start project run these commands
     rename .env.sample to .env
