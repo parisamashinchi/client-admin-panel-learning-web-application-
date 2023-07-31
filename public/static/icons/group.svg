@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.403" height="41.226" viewBox="0 0 47.403 41.226">
+  <g id="Group_1212" data-name="Group 1212" transform="translate(-628.841 -774)">
+    <g id="Rectangle_590" data-name="Rectangle 590" transform="translate(628.841 773.999)" fill="none" stroke="#757575" stroke-width="2.5">
+      <path d="M1,0H9.305a1,1,0,0,1,1,1V41.226a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M1.5,1.25H8.805a.25.25,0,0,1,.25.25V38.726a1.25,1.25,0,0,1-1.25,1.25H2.5a1.25,1.25,0,0,1-1.25-1.25V1.5A.25.25,0,0,1,1.5,1.25Z" fill="none"/>
+    </g>
+    <g id="Rectangle_591" data-name="Rectangle 591" transform="translate(647.39 790.49)" fill="none" stroke="#757575" stroke-width="2.5">
+      <path d="M1,0H9.305a1,1,0,0,1,1,1V24.735a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M1.5,1.25H8.805a.25.25,0,0,1,.25.25V22.235a1.25,1.25,0,0,1-1.25,1.25H2.5a1.25,1.25,0,0,1-1.25-1.25V1.5A.25.25,0,0,1,1.5,1.25Z" fill="none"/>
+    </g>
+    <g id="Rectangle_592" data-name="Rectangle 592" transform="translate(665.939 802.857)" fill="none" stroke="#757575" stroke-width="2.5">
+      <path d="M1,0H9.305a1,1,0,0,1,1,1V12.368a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M1.5,1.25H8.805a.25.25,0,0,1,.25.25V9.868a1.25,1.25,0,0,1-1.25,1.25H2.5a1.25,1.25,0,0,1-1.25-1.25V1.5A.25.25,0,0,1,1.5,1.25Z" fill="none"/>
+    </g>
+  </g>
+</svg>

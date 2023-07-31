@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.416" height="82.069" viewBox="0 0 58.416 82.069">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="58.416" height="82.069" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="book" clip-path="url(#clip-path)">
+    <g id="Group_1165" data-name="Group 1165">
+      <path id="Path_232" data-name="Path 232" d="M106.385,19.123H61.577a7.546,7.546,0,0,1,0-15.093H106.4A2.015,2.015,0,0,0,106.4,0H61.577A11.6,11.6,0,0,0,50,11.577V61.992A11.6,11.6,0,0,0,61.577,73.569H106.4a2.014,2.014,0,0,0,2.015-2.015V21.139A2.037,2.037,0,0,0,106.385,19.123ZM104.37,69.538H61.577a7.557,7.557,0,0,1-7.546-7.546V20.366a11.557,11.557,0,0,0,7.546,2.8H104.37V69.538Z" transform="translate(-50 0)" fill="#404040"/>
+      <path id="Path_233" data-name="Path 233" d="M119.315,64.3a2.015,2.015,0,0,0,0,4.031h37.853a2.015,2.015,0,0,0,0-4.031Z" transform="translate(-107.102 -54.556)" fill="#404040"/>
+      <text id="آ" transform="translate(36.916 60.069)" fill="#343434" font-size="41" font-family="IRANYekan"><tspan x="-14.182" y="0">آ</tspan></text>
+    </g>
+  </g>
+</svg>

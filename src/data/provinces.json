@@ -1,0 +1,159 @@
+{
+    "cities": [
+        {
+            "value": "1",
+            "label": "آذربایجان شرقی",
+            "isLeaf": false
+        },
+        {
+            "value": "2",
+            "label": "آذربایجان غربی",
+            "isLeaf": false
+        },
+        {
+            "value": "3",
+            "label": "اردبیل",
+            "isLeaf": false
+        },
+        {
+            "value": "4",
+            "label": "اصفهان",
+            "isLeaf": false
+        },
+        {
+            "value": "5",
+            "label": "البرز",
+            "isLeaf": false
+        },
+        {
+            "value": "6",
+            "label": "ایلام",
+            "isLeaf": false
+        },
+        {
+            "value": "7",
+            "label": "بوشهر",
+            "isLeaf": false
+        },
+        {
+            "value": "8",
+            "label": "تهران",
+            "isLeaf": false
+        },
+        {
+            "value": "9",
+            "label": "چهار محال و بختیاری",
+            "isLeaf": false
+        },
+        {
+            "value": "10",
+            "label": "خراسان جنوبی",
+            "isLeaf": false
+        },
+        {
+            "value": "11",
+            "label": "خراسان رضوی",
+            "isLeaf": false
+        },
+        {
+            "value": "12",
+            "label": "خراسان شمالی",
+            "isLeaf": false
+        },
+        {
+            "value": "13",
+            "label": "خوزستان",
+            "isLeaf": false
+        },
+        {
+            "value": "14",
+            "label": "زنجان",
+            "isLeaf": false
+        },
+        {
+            "value": "15",
+            "label": "سمنان",
+            "isLeaf": false
+        },
+        {
+            "value": "16",
+            "label": "سیستان و بلوچستان",
+            "isLeaf": false
+        },
+        {
+            "value": "17",
+            "label": "فارس",
+            "isLeaf": false
+        },
+        {
+            "value": "18",
+            "label": "قزوین",
+            "isLeaf": false
+        },
+        {
+            "value": "19",
+            "label": "قم",
+            "isLeaf": false
+        },
+        {
+            "value": "20",
+            "label": "کردستان",
+            "isLeaf": false
+        },
+        {
+            "value": "21",
+            "label": "کرمان",
+            "isLeaf": false
+        },
+        {
+            "value": "22",
+            "label": "کرمانشاه",
+            "isLeaf": false
+        },
+        {
+            "value": "23",
+            "label": "کهگیلویه و بویراحمد",
+            "isLeaf": false
+        },
+        {
+            "value": "24",
+            "label": "گلستان",
+            "isLeaf": false
+        },
+        {
+            "value": "25",
+            "label": "گیلان",
+            "isLeaf": false
+        },
+        {
+            "value": "26",
+            "label": "لرستان",
+            "isLeaf": false
+        },
+        {
+            "value": "27",
+            "label": "مازندران",
+            "isLeaf": false
+        },
+        {
+            "value": "28",
+            "label": "مرکزی",
+            "isLeaf": false
+        },
+        {
+            "value": "29",
+            "label": "هرمزگان",
+            "isLeaf": false
+        },
+        {
+            "value": "30",
+            "label": "همدان",
+            "isLeaf": false
+        },
+        {
+            "value": "31",
+            "label": "یزد",
+            "isLeaf": false
+        }
+    ]
+}
